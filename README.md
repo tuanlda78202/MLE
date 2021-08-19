@@ -1,4 +1,4 @@
-Machine Learning Tools - From a junior data scientist.
+Machine Learning Tools - from a junior data scientist.
 
 Hey guys, welcome to my repository! I'm Charles. This is a repository about ML tools: Pandas, NumPy, Matplotlib,... and some useful libraries for ML.
 
