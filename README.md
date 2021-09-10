@@ -4,5 +4,7 @@ Hey guys, welcome to my repository! I'm Charles. This is a repository about ML t
 
 I hope you are interested in it. I would really appreciate it if you took two seconds to follow me on Github. Thank you so much! 
 
+NB Viewer Jupyter: bit.ly/3hkMOEq
+
 
 
