@@ -1,7 +1,7 @@
 # Machine Learning Tools
 I'm Charles - ML Research Assistant DSLab (BKAI), AI Developer GDSCxHUST, Founder Humans of HUST & Major in DSAI HUST.
 
-This is a repository made by me, about ML tools: Pandas, NumPy, Matplotlib,... and other useful libraries for ML.
+This is a repository made by me, about Machine Learning Material: Pandas, NumPy, Matplotlib,... and other useful libraries for ML.
 
 ## Contact Info
 `LinkedIn`: https://www.linkedin.com/in/tuanlda78202
