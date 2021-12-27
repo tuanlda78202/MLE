@@ -1,10 +1,18 @@
-Machine Learning Tools - from a junior data scientist.
+# Machine Learning Tools
+I'm Charles - ML Research Assistant DSLab (BKAI), AI Developer GDSCxHUST, Founder Humans of HUST & Major in DSAI HUST.
 
-Hey guys, welcome to my repository! I'm Charles. This is a repository about ML tools: Pandas, NumPy, Matplotlib,... and some useful libraries for ML.
+This is a repository made by me, about ML tools: Pandas, NumPy, Matplotlib,... and other useful libraries for ML.
 
-I hope you are interested in it. I would really appreciate it if you took two seconds to follow me on Github. Thank you so much! 
+## Contact Info
+`LinkedIn`: https://www.linkedin.com/in/tuanlda78202
 
-NB Viewer Jupyter: https://bit.ly/3hkMOEq
+`GitHub`: https://github.com/tuanlda78202
+
+`GDSCxHUST`: http://dsc-hust.club/members/details/246
+
+`Blog`: https://www.facebook.com/pageofhumanshust
+
+`Twitter`: https://twitter.com/tuanlda78202
 
 
 
