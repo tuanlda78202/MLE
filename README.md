@@ -1,8 +1,8 @@
 # Machine Learning Tools
-* Machine Learning Research Assistant at DSLab of International Research Center for Artificial Intelligence (BK.AI)
-* AI Developer at GDSCxHUST
+* Machine Learning Research Assistant at DSLab - International Research Center for Artificial Intelligence (BK.AI)
+* AI Developer at Google Developer Student Clubs - Hanoi University of Science and Technology
 * Founder of Humans of HUST
-* Major in Data Science and Artificial Intelligence at Hanoi University of Science and Technology.
+* Major in Data Science and Artificial Intelligence at Hanoi University of Science and Technology
 
 <p align='left'>
   <a href="https://www.linkedin.com/in/tuanlda78202/">
