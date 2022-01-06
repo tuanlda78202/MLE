@@ -1,0 +1,9 @@
+# cache
+**/__pycache__
+**/.pytest_cache
+
+# Jupyter autosave
+**/.ipynb_checkpoints
+
+# Mac 
+**/.DS_Store
