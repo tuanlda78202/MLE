@@ -4,7 +4,7 @@
 * Machine Learning Research Assistant at DSLab - International Research Center for Artificial Intelligence (BKAI)
 * AI Developer at Google Developer Student Clubs - Hanoi University of Science and Technology
 * Founder of Humans of HUST
-* Major in Data Science and Artificial Intelligence at Hanoi University of Science and Technology.
+* Major in Data Science and Artificial Intelligence at Hanoi University of Science and Technology
 
 <p align='left'>
   <a href="https://www.linkedin.com/in/tuanlda78202/">
